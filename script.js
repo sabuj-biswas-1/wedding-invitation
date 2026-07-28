@@ -3,7 +3,7 @@
    Change this to your wedding date
 ===================================== */
 
-const weddingDate = new Date("December 15, 2026 19:00:00").getTime();
+const weddingDate = new Date("August 07, 2026 20:30:00").getTime();
 
 /* =====================================
    COUNTDOWN

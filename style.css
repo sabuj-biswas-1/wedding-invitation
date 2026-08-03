@@ -319,15 +319,23 @@ h1,h2,h3{
    INVITATION IMAGE
 ===================================== */
 
+.invite-cards{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    flex-wrap: wrap;
+    margin-top: 40px;
+}
+
 .invite-card{
 
-    max-width:550px;
+    max-width:500px;
 
     width:100%;
 
-    display:block;
+    flex:1 1 450px;
 
-    margin:40px auto;
+    display:block;
 
     border-radius:20px;
 
